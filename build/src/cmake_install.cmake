@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/e/CHAT/testmuduo/src
+# Install script for directory: /mnt/e/chatserver/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,8 +44,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/mnt/e/CHAT/testmuduo/build/src/server/cmake_install.cmake")
-  include("/mnt/e/CHAT/testmuduo/build/src/client/cmake_install.cmake")
+  include("/mnt/e/chatserver/build/src/server/cmake_install.cmake")
+  include("/mnt/e/chatserver/build/src/client/cmake_install.cmake")
 
 endif()
 

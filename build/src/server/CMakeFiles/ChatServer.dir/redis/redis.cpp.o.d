@@ -1,7 +1,6 @@
 src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o: \
- /mnt/e/CHAT/testmuduo/src/server/redis/redis.cpp \
- /usr/include/stdc-predef.h \
- /mnt/e/CHAT/testmuduo/include/server/redis/redis.hpp \
+ /mnt/e/chatserver/src/server/redis/redis.cpp /usr/include/stdc-predef.h \
+ /mnt/e/chatserver/include/server/redis/redis.hpp \
  /usr/local/include/hiredis/hiredis.h /usr/local/include/hiredis/read.h \
  /usr/include/stdio.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \

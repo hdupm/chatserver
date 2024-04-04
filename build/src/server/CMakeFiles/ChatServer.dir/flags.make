@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/mnt/e/CHAT/testmuduo/include -I/mnt/e/CHAT/testmuduo/include/server -I/mnt/e/CHAT/testmuduo/include/server/db -I/mnt/e/CHAT/testmuduo/include/server/model -I/mnt/e/CHAT/testmuduo/include/server/redis -I/mnt/e/CHAT/testmuduo/thirdparty
+CXX_INCLUDES = -I/mnt/e/chatserver/include -I/mnt/e/chatserver/include/server -I/mnt/e/chatserver/include/server/db -I/mnt/e/chatserver/include/server/model -I/mnt/e/chatserver/include/server/redis -I/mnt/e/chatserver/thirdparty
 
 CXX_FLAGS = -g
 

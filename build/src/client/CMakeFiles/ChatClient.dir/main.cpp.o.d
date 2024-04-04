@@ -1,6 +1,6 @@
 src/client/CMakeFiles/ChatClient.dir/main.cpp.o: \
- /mnt/e/CHAT/testmuduo/src/client/main.cpp /usr/include/stdc-predef.h \
- /mnt/e/CHAT/testmuduo/thirdparty/json.hpp /usr/include/c++/11/algorithm \
+ /mnt/e/chatserver/src/client/main.cpp /usr/include/stdc-predef.h \
+ /mnt/e/chatserver/thirdparty/json.hpp /usr/include/c++/11/algorithm \
  /usr/include/c++/11/utility \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -253,8 +253,8 @@ src/client/CMakeFiles/ChatClient.dir/main.cpp.o: \
  /usr/include/arpa/inet.h /usr/include/semaphore.h \
  /usr/include/x86_64-linux-gnu/bits/semaphore.h \
  /usr/include/c++/11/atomic \
- /mnt/e/CHAT/testmuduo/include/server/model/group.hpp \
- /mnt/e/CHAT/testmuduo/include/server/model/groupuser.hpp \
- /mnt/e/CHAT/testmuduo/include/server/model/user.hpp \
- /mnt/e/CHAT/testmuduo/include/server/model/user.hpp \
- /mnt/e/CHAT/testmuduo/include/public.hpp
+ /mnt/e/chatserver/include/server/model/group.hpp \
+ /mnt/e/chatserver/include/server/model/groupuser.hpp \
+ /mnt/e/chatserver/include/server/model/user.hpp \
+ /mnt/e/chatserver/include/server/model/user.hpp \
+ /mnt/e/chatserver/include/public.hpp

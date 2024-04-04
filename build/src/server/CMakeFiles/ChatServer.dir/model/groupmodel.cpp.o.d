@@ -1,10 +1,10 @@
 src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o: \
- /mnt/e/CHAT/testmuduo/src/server/model/groupmodel.cpp \
+ /mnt/e/chatserver/src/server/model/groupmodel.cpp \
  /usr/include/stdc-predef.h \
- /mnt/e/CHAT/testmuduo/include/server/model/groupmodel.hpp \
- /mnt/e/CHAT/testmuduo/include/server/model/group.hpp \
- /mnt/e/CHAT/testmuduo/include/server/model/groupuser.hpp \
- /mnt/e/CHAT/testmuduo/include/server/model/user.hpp \
+ /mnt/e/chatserver/include/server/model/groupmodel.hpp \
+ /mnt/e/chatserver/include/server/model/group.hpp \
+ /mnt/e/chatserver/include/server/model/groupuser.hpp \
+ /mnt/e/chatserver/include/server/model/user.hpp \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -137,7 +137,7 @@ src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o: \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /mnt/e/CHAT/testmuduo/include/server/db/db.h /usr/include/mysql/mysql.h \
+ /mnt/e/chatserver/include/server/db/db.h /usr/include/mysql/mysql.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
  /usr/include/mysql/field_types.h /usr/include/mysql/my_list.h \
  /usr/include/mysql/mysql_com.h /usr/include/mysql/my_command.h \

@@ -1,8 +1,8 @@
 src/server/CMakeFiles/ChatServer.dir/model/usermodel.cc.o: \
- /mnt/e/CHAT/testmuduo/src/server/model/usermodel.cc \
+ /mnt/e/chatserver/src/server/model/usermodel.cc \
  /usr/include/stdc-predef.h \
- /mnt/e/CHAT/testmuduo/include/server/model/usermodel.hpp \
- /mnt/e/CHAT/testmuduo/include/server/model/user.hpp \
+ /mnt/e/chatserver/include/server/model/usermodel.hpp \
+ /mnt/e/chatserver/include/server/model/user.hpp \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -131,7 +131,7 @@ src/server/CMakeFiles/ChatServer.dir/model/usermodel.cc.o: \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /mnt/e/CHAT/testmuduo/include/server/db/db.h /usr/include/mysql/mysql.h \
+ /mnt/e/chatserver/include/server/db/db.h /usr/include/mysql/mysql.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
  /usr/include/mysql/field_types.h /usr/include/mysql/my_list.h \
  /usr/include/mysql/mysql_com.h /usr/include/mysql/my_command.h \

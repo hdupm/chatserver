@@ -1,6 +1,6 @@
 src/server/CMakeFiles/ChatServer.dir/db/db.cc.o: \
- /mnt/e/CHAT/testmuduo/src/server/db/db.cc /usr/include/stdc-predef.h \
- /mnt/e/CHAT/testmuduo/include/server/db/db.h /usr/include/mysql/mysql.h \
+ /mnt/e/chatserver/src/server/db/db.cc /usr/include/stdc-predef.h \
+ /mnt/e/chatserver/include/server/db/db.h /usr/include/mysql/mysql.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdbool.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h /usr/include/stdint.h \

@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/e/CHAT/testmuduo/src/client
+# Install script for directory: /mnt/e/chatserver/src/client
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
